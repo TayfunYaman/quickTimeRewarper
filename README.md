@@ -12,7 +12,6 @@ This version is **minimal**, **clean**, and **command‑line friendly**.
 - Preserves metadata
 - Simple command-line usage (`python3 rewarp.py input.mov`)
 - Outputs automatically to `/output/` folder
-- No progress bar, clean terminal output
 
 ---
 
